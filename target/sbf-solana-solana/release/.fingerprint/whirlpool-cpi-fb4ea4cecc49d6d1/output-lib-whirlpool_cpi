@@ -1,0 +1,1 @@
+Error: Function _ZN131_$LT$whirlpool_cpi..context..InitializePool$u20$as$u20$anchor_lang..Accounts$LT$whirlpool_cpi..context..InitializePoolBumps$GT$$GT$12try_accounts17hfd261edb4ab5c411E Stack offset of 4888 exceeded max offset of 4096 by 792 bytes, please minimize large stack variables
